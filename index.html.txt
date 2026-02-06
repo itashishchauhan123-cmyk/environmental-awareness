@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Environmental Awareness</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="header">
+    <div class="logo">🌱 Environmental Awareness</div>
+    <nav>
+        <ul class="menu">
+            <li><a href="#">Home</a></li>
+            <li>
+                <a href="#">Awareness ▾</a>
+                <ul class="dropdown">
+                    <li><a href="#climate">🌍 Climate Change</a></li>
+                    <li><a href="#waste">♻ Waste Management</a></li>
+                    <li><a href="#water">💧 Water Conservation</a></li>
+                    <li><a href="#biodiversity">🦋 Biodiversity</a></li>
+                </ul>
+            </li>
+	    <li><a href="#role"> Role of Student</a></li>
+            <li><a href="#club">🌿 Eco Club</a></li>
+            <li><a href="#resources">🔗 Resources</a></li>
+	    <li><a href="#feedback">📝 FeedBack</a></li>
+        </ul>
+    </nav>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+    <div class="hero-box animate fade-up">
+        <h1>Environmental Awareness for College Students 🌎</h1>
+        <p>
+            Understanding environmental challenges and promoting sustainable
+            practices through knowledge, responsibility, and action.
+        </p>
+    </div>
+</section>
+
+<!-- CLIMATE CHANGE -->
+<section class="info-box light animate slide-left" id="climate">
+    <img src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/2710/Effects_page_triptych.jpeg?w=2963&h=1459&fit=clip&crop=faces%2Cfocalpoint" alt="Climate Change">
+    <div class="info-content">
+        <h2>🌍 Climate Change</h2>
+        <p>
+            Climate change refers to long-term changes in Earth’s temperature and
+            weather patterns, mainly caused by human activities such as burning
+            fossil fuels and deforestation.
+        </p>
+        <p>
+            🚨 Impacts include global warming, rising sea levels, heatwaves,
+            floods, and melting glaciers.
+        </p>
+        <p class="action">
+            ✅ Students can help by saving electricity, using public transport,
+            and supporting renewable energy.
+        </p>
+    </div>
+</section>
+
+<!-- WASTE MANAGEMENT -->
+<section class="info-box animate slide-right" id="waste">
+    <div class="info-content">
+        <h2>♻ Waste Management</h2>
+        <p>
+            Waste management involves proper collection, segregation, recycling,
+            and disposal of waste to reduce pollution and protect human health.
+        </p>
+        <p>
+            🗑 Poor waste handling leads to soil, air, and water pollution.
+        </p>
+        <p class="action">
+            ✅ Reduce, Reuse, Recycle (3R principle) and avoid single-use plastics
+            to maintain a clean campus.
+        </p>
+    </div>
+    <img src="https://images.unsplash.com/photo-1604187351574-c75ca79f5807" alt="Waste Management">
+</section>
+
+<!-- WATER CONSERVATION -->
+<section class="info-box light animate slide-left" id="water">
+    <img src="https://cdn.educba.com/academy/wp-content/uploads/2024/08/Water-Conservation.jpg" alt="Water Conservation">
+    <div class="info-content">
+        <h2>💧 Water Conservation</h2>
+        <p>
+            Water conservation means using water efficiently to prevent water
+            scarcity and ensure availability for future generations.
+        </p>
+        <p>
+            🚿 Excessive water usage and wastage are major global concerns.
+        </p>
+        <p class="action">
+            ✅ Practice rainwater harvesting, fix leaking taps, and use water
+            responsibly on campus.
+        </p>
+    </div>
+</section>
+
+<!-- BIODIVERSITY -->
+<section class="info-box animate slide-right" id="biodiversity">
+    <div class="info-content">
+        <h2>🦋 Biodiversity Protection</h2>
+        <p>
+            Biodiversity refers to the variety of life on Earth, including plants,
+            animals, and microorganisms that maintain ecological balance.
+        </p>
+        <p>
+            🌳 Loss of biodiversity affects food chains and ecosystems.
+        </p>
+        <p class="action">
+            ✅ Protect forests, plant trees, and support wildlife conservation
+            initiatives.
+        </p>
+    </div>
+    <img src="https://www.epa.gov/sites/default/files/styles/medium/public/2015-04/ecowheel_biodiversity.jpg?itok=9tQPSyF-" alt="Biodiversity">
+</section>
+
+<section class="section role animate fade-up" id="role">
+   <h2>🎓 Role of Students in Environmental Protection</h2>
+    <p>
+        Students play an important role in protecting the environment by adopting
+        eco-friendly habits and spreading awareness in society.
+    </p>
+    <ul>
+        <li>📚 Create awareness about environmental issues</li>
+        <li>♻ Practice waste segregation and recycling</li>
+        <li>🌳 Participate in tree plantation programs</li>
+        <li>💡 Save electricity and water on campus</li>
+        <li>📢 Join environmental clubs and campaigns</li>
+    </ul>
+</section>
+
+
+<!-- ECO CLUB -->
+<section class="section animate fade-up" id="club">
+    <h2>🌿 Environmental Club</h2>
+    <p>
+        The Environmental Club is a student-led initiative that encourages
+        sustainability and environmental responsibility through practical
+        activities and awareness programs.
+    </p>
+    <ul>
+        <li>🧹 Campus cleanliness drives</li>
+        <li>🌱 Tree plantation programs</li>
+        <li>📢 Awareness campaigns and seminars</li>
+        <li>🎨 Poster and slogan competitions</li>
+    </ul>
+</section>
+
+<!-- DOs & DON'Ts -->
+<section class="section dos-donts" id="dos-donts" data-aos="fade-up">
+    <h2>✅ Do’s & ❌ Don’ts</h2>
+    <div class="dd-container">
+
+        <div class="dd-box do">
+            <h3>🌱 Do’s</h3>
+            <ul>
+                <li>✅ Save electricity</li>
+                <li>✅ Use reusable items</li>
+                <li>✅ Segregate waste</li>
+                <li>✅ Plant trees</li>
+                <li>✅ Use public transport</li>
+            </ul>
+        </div>
+
+        <div class="dd-box dont">
+            <h3>🚫 Don’ts</h3>
+            <ul>
+                <li>❌ Waste water</li>
+                <li>❌ Use plastic bags</li>
+                <li>❌ Litter campus</li>
+                <li>❌ Burn waste</li>
+                <li>❌ Cut trees</li>
+            </ul>
+        </div>
+
+    </div>
+</section>
+
+
+<!-- RESOURCES -->
+<section class="section light animate fade-up" id="resources">
+    <h2>🔗 Useful Environmental Resources</h2>
+    <ul class="links">
+        <li><a href="https://www.unep.org" target="_blank">🌍 UN Environment Programme</a></li>
+        <li><a href="https://sdgs.un.org/goals" target="_blank">🎯 Sustainable Development Goals</a></li>
+        <li><a href="https://moef.gov.in" target="_blank">🇮🇳 Ministry of Environment, India</a></li>
+        <li><a href="https://www.worldwildlife.org" target="_blank">🐼 World Wildlife Fund (WWF)</a></li>
+    </ul>
+</section>
+
+<!-- FEEDBACK -->
+<section class="section animate fade-up" id="feedback">
+    <h2>📝 Feedback</h2>
+    <p>
+        We value your feedback! Share your thoughts, suggestions, or ideas
+        to help us improve environmental awareness initiatives.
+    </p>
+
+    <form class="feedback-form">
+        <label for="name">👤 Name</label>
+        <input type="text" id="name" name="name" placeholder="Enter your name" required>
+
+        <label for="email">📧 Email</label>
+        <input type="email" id="email" name="email" placeholder="Enter your email" required>
+
+        <label for="message">💬 Feedback</label>
+        <textarea id="message" name="message" rows="5" placeholder="Write your feedback here..." required></textarea>
+
+        <button type="submit">✅ Submit Feedback</button>
+    </form>
+</section>
+
+
+<footer class="footer">
+    <p>© 2026 Environmental Awareness 🌱</p>
+</footer>
+
+</body>
+</html>
